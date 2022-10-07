@@ -1,0 +1,310 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pablo",
+      "surnames": "Coronado Castro",
+      "title": "Software Engineer - Frontend Developer",
+      "description": "Hello, my name is Pablo Coronado, I'm a software engineer and I work as a Frontend engineer at Sngular. I like to work in a team, and constantly learn new things to apply in my day to day. ",
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pablo-coronado/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sngular",
+          "image": {
+            "alt": "descarga.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/07/3cd6c724-8c9e-4461-ac52-5e6cf472c7ae_descarga.jpeg"
+          },
+          "URL": "https://www.sngular.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend Engineer",
+            "startDate": "2018-07-01",
+            "challenges": [
+              {
+                "description": "I have worked on different projects as a Front-End engineer for Sngular. The project in which I have spent more time is Pull&Bear, in which I have done tasks such as development and maintenance of the e-commerce site www.pullandbear.com.\nMigration from Backbone to Web Components (Litelement) of different parts of the application such as the search engine or the checkout.\nConstant communication with the client to meet their needs and advise them on project decisions. We also perform web performance studies to improve the user experience.\n\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "LitElement",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBVA",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/07/aae86166-baba-4dd4-83a9-0d5411276fa5_descarga.png"
+          },
+          "URL": "https://www.bbva.com"
+        },
+        "roles": [
+          {
+            "name": "Production & Service Quality Internship",
+            "startDate": "2017-06-01",
+            "finishDate": "2018-05-01",
+            "challenges": [
+              {
+                "description": "Development of a web application for the department. Knowledge of the organisation's production processes. Training in Service Levels and Quality Management."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "LitElement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Scss",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostCSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "MSC. WEB ENGINEERING",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "Polytechnic University of Madrid",
+          "description": "Master's degree focused on web engineering. Knowledge of both Front-End and Backend development, as well as security and software project management.",
+          "URL": "https://www.upm.es",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/07/3e4a5afe-9d6a-4de3-865c-41688997821e_descarga-(1).png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "BENG. SOFTWARE ENGINEERING",
+        "startDate": "2019-01-01",
+        "institution": {
+          "name": "Polytechnic University of Madrid",
+          "description": "Bachelor’s degree in Software Engineering.",
+          "URL": "https://www.upm.es",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/07/2dd65725-a46c-4d50-8154-a4e7e86732f2_descarga-(1).png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/pablo-coronado/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "LitElement",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    }
+  }
+}
