@@ -9,7 +9,7 @@
       "name": "Pablo",
       "surnames": "Coronado Castro",
       "title": "Software Engineer - Frontend Developer",
-      "description": "Hello, my name is Pablo Coronado, I'm a software engineer and I work as a Frontend engineer at Sngular. I like to work in a team, and constantly learn new things to apply in my day to day. ",
+      "description": "Hello, my name is Pablo Coronado. I'm currently working as a Frontend engineer at Sngular. In my current position, I'm responsible for the frontend of a ecommerce platform. My responsibilities include building new features, ensuring the performance of the application is optimal, and bug fixing. In my next role I'm looking to find a role where I can work with a team that is diverse and passionate about what they do.",
       "avatar": {
         "alt": "59846DFE-6DC3-4E82-ACD6-31AC5FE91E78.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/3310007a-cb43-4747-bd9f-da3a4061c07b_59846dfe-6dc3-4e82-a.jpeg"
@@ -135,11 +135,11 @@
     "languages": [
       {
         "name": "English",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
