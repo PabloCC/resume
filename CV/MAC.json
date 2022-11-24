@@ -151,25 +151,19 @@
       },
       {
         "skill": {
-          "name": "LitElement",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Scss",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "PostCSS",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gitflow",
           "type": "technology"
         }
       },
@@ -187,19 +181,13 @@
       },
       {
         "skill": {
+          "name": "LitElement",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -211,7 +199,7 @@
       },
       {
         "skill": {
-          "name": "WordPress",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -223,7 +211,19 @@
       },
       {
         "skill": {
-          "name": "Gitflow",
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostCSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -235,7 +235,7 @@
       },
       {
         "skill": {
-          "name": "Github",
+          "name": "WordPress",
           "type": "technology"
         }
       },
