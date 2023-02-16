@@ -9,7 +9,7 @@
       "name": "Pablo",
       "surnames": "Coronado Castro",
       "title": "Frontend Engineer",
-      "description": "Hi there! My name is Pablo Coronado and I am a Frontend engineer at Sngular. I am currently in charge of the frontend of Pull&Bear ecommerce platform, which involves building new features, optimizing performance, and fixing bugs. In my next role, I hope to find a new professional challenge with a team that is diverse and passionate about what they do.",
+      "description": "",
       "avatar": {
         "alt": "59846DFE-6DC3-4E82-ACD6-31AC5FE91E78.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/3310007a-cb43-4747-bd9f-da3a4061c07b_59846dfe-6dc3-4e82-a.jpeg"
@@ -312,5 +312,29 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "LitElement",
+        "type": "technology"
+      },
+      {
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      }
+    ]
   }
 }
