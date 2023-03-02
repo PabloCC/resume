@@ -23,6 +23,10 @@
     },
     "relevantLinks": [
       {
+        "type": "github",
+        "URL": "https://github.com/pablocc"
+      },
+      {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/pablo-coronado/"
       }
