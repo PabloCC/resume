@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
     "relevantLinks": [
@@ -49,7 +48,7 @@
             "startDate": "2018-07-01",
             "challenges": [
               {
-                "description": "I have worked on different projects as a Front-End engineer for Sngular. The project in which I have spent more time is Pull&Bear, in which I have done tasks such as development and maintenance of the e-commerce site www.pullandbear.com.\nMigration from Backbone to Web Components (Litelement) of different parts of the application such as the search engine or the checkout.\nConstant communication with the client to meet their needs and advise them on project decisions. We also perform web performance studies to improve the user experience.\n\n"
+                "description": "At Sngular, I have had the opportunity to work on various projects of different durations, which have allowed me to work with diverse teams and technologies while adapting to various development methodologies.\n\nThe project where I have spent the most time and grown the most as a professional has been Pull&Bear, where I was responsible for:\n\n- Development and maintenance of the www.pullandbear.com ecommerce site as part of a dedicated team.\n- Contributed to the creation of a high-performing application that resulted in a significant increase in global sales.\n- Responsible for the migration of key parts of the application from Backbone to Web Components (Litelement), resulting in improved maintainability and increased efficiency in delivering new features and improvements.\n- Worked closely with clients to understand their needs and provided expert advice on project decisions.\n- Conducted ongoing web performance studies that resulted in significant improvements in site speed and overall user experience.\n"
               }
             ],
             "competences": [
@@ -138,12 +137,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -314,31 +311,6 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    },
-    "status": "searchingActively"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "LitElement",
-        "type": "technology"
-      },
-      {
-        "name": "Angular2+",
-        "type": "technology"
-      },
-      {
-        "name": "NodeJS",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
